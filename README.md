@@ -1,5 +1,9 @@
 # booking_home_app
 
+
+
+![alt text](https://raw.githubusercontent.com/gokhanvaris/home_booking_app/main/bg.png)
+
 A new Flutter project.
 
 ## Getting Started
