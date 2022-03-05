@@ -1,0 +1,12 @@
+{
+    "app_title":"Home Booking App",
+    "splash_title" : "Let's\nExplore\nBeautiful Homes",
+    "splash_body_text" : "You can find the house\nyou want in the city and country you want!",
+    "splash_button_title":"Get Started",
+    "welcome_text" : "Welcome Back!",
+    "login_text" : "Login",
+    "hint_mail" : "gokhanvaris@outlook.com.tr",
+    "hint_pass" : "*************",
+    "forgot_pass" : "Forgot Password?",
+    "login_info" : "Don't you have an account?"
+}
